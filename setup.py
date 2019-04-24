@@ -11,9 +11,9 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'adform_api_wrapper'
 DESCRIPTION = 'Python Adform API wrapper'
-URL = 'https://github.com/Sajjadhosn/adform-api-wrapper'
-EMAIL = 'sajjad.hosseini@futurice.com'
-AUTHOR = 'Sajjad Hosseini'
+URL = 'https://github.com/sam-hosseini/adform-api-wrapper'
+EMAIL = 'firstname.lastname@futurice.com'
+AUTHOR = 'Sam Hosseini'
 REQUIRES_PYTHON = '>=3.7'
 VERSION = None
 
