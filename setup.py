@@ -9,11 +9,11 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'adform_api_wrapper'
+NAME = 'dagmar_adform_api_wrapper'
 DESCRIPTION = 'Python Adform API wrapper'
-URL = 'https://github.com/sam-hosseini/adform-api-wrapper'
-EMAIL = 'firstname.lastname@futurice.com'
-AUTHOR = 'Sam Hosseini'
+URL = 'https://github.com/tkatva/adform-api-wrapper'
+EMAIL = 'tuomas.katva@dagmar.fi'
+AUTHOR = 'Tuomas Katva'
 REQUIRES_PYTHON = '>=3.7'
 VERSION = None
 
